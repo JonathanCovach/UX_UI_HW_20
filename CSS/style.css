@@ -1,0 +1,67 @@
+.navContainer {
+    background: #002D5C;
+}
+
+.nav-link{
+    color: white;
+}
+
+#lucyHeader {
+    align-items: flex-end;
+}
+
+.jumbotron {
+    background-image: url(../images/LucyHero.png);
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.display-4 {
+    color: white;
+}
+.lead {
+    color: white;
+}
+
+#featuredFavorites {
+    align-self: center;
+}
+
+#picnicBlanket {
+    width: 1630px;
+}
+
+footer{
+    margin-top: 75px;
+    background-color: #0C6BA6;
+    width: 1630px;
+    display: inline-block;
+}
+
+#footerlogo{
+    height: 80px;
+    display: inline-block;
+}
+
+#lucysign{
+    height: 150px;
+    margin-top: 200px;
+    margin-bottom: 00px;
+    margin-left: 700px;
+}
+    
+    
+    
+    
+.contactButton{
+    height: 30px;
+    width: 90px;
+    background-color: #D90429;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 1450px;
+    display: inline-block;
+}
+    
